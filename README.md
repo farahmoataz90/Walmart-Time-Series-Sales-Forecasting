@@ -79,11 +79,11 @@ The project provides Walmart owners with detailed insights into their sales data
 ## Installation and Usage
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/walmart-sales-analysis.git
+    git clone https://github.com/farahmoataz90/Walmart-Time-Series-Sales-Forecasting.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd walmart-sales-analysis
+    cd Walmart-Time-Series-Sales-Forecasting
     ```
 3. Install the required packages:
     ```sh
@@ -92,9 +92,9 @@ The project provides Walmart owners with detailed insights into their sales data
 4. Run the analysis:
     - For Jupyter Notebook:
         ```sh
-        jupyter notebook walmart_sales_analysis.ipynb
+        jupyter notebook WalmartSalesForcasting.ipynb
         ```
     - For Python script:
         ```sh
-        python walmart_sales_analysis.py
+        python WalmartSalesForcasting.py
         ```
